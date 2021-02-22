@@ -4,7 +4,7 @@
   <artifactId>Coding</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 <properties>
-  <sonar.projectKey>Divyabd_practicesonar</sonar.projectKey>
+ <sonar.projectKey>Divyabd_example</sonar.projectKey>
   <sonar.organization>divyabd</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
