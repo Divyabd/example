@@ -87,5 +87,38 @@ public class Addition {
 		
 
 	}
+		public static void count(String str) {
+		long count = 0L;
+		for (int i = 0; i < str.length(); i++) {
+
+			count = count * 10 + str.charAt(i) - '0';
+		}
+		if(count!=0)
+		System.out.println(count);
+		else
+		{
+			System.out.println("long Over flow");
+
+		}
+		
+
+	}
+	public static void count(String str) {
+		long count = 0L;
+		for (int i = 0; i < str.length(); i++) {
+
+			count = count * 10 + str.charAt(i) - '0';
+		}
+		if(count!=0)
+		System.out.println(count);
+		else
+		{
+			System.out.println("long Over flow");
+
+		}
+		
+
+	}
+
 
 }
