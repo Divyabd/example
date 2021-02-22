@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>Coding</groupId>
   <artifactId>Coding</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>2.0.1-SNAPSHOT</version>
 <!-- <properties>
  <sonar.projectKey>Divyabd_example</sonar.projectKey>
   <sonar.organization>divyabd</sonar.organization>
